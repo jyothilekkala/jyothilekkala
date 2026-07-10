@@ -37,7 +37,7 @@ My engineering philosophy centers around zero-trust security, deep observability
 ---
 
 ### 🤝 Let's Connect!
-*   💼 **LinkedIn:** [linkedin.com/in/jyothilekkala](https://www.linkedin.com) *(Update with your exact URL tail)*
+*   💼 **LinkedIn:** [linkedin.com/in/jyothilekkala](https://www.linkedin.com)
 *   🗺️ **Location:** Austin, TX
 
 🎨 *“Eliminating toil through automated engineering.”*
