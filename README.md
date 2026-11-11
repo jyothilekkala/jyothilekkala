@@ -1,221 +1,176 @@
 # 👋 Hi, I'm Jyothi Lekkala
 
-### **⚡ Site Reliability Engineer | Cloud Platform Engineering | Automation | Observability**
+### 🤖 Generative AI Engineer | Applied AI | RAG | LLM Applications | Python | Cloud Engineering
 
-I build and operate **reliable, scalable, and automated systems** with a focus on **cloud infrastructure, Kubernetes platforms, observability, and production reliability**.
+I build **AI-powered applications and intelligent systems** that combine Generative AI, software engineering, and cloud technologies.
 
-I work at the intersection of **software engineering and operations**, applying automation, monitoring, and engineering practices to improve system availability, reduce operational toil, and build resilient platforms.
+My focus is on developing practical LLM applications, Retrieval-Augmented Generation (RAG) solutions, enterprise knowledge retrieval systems, and AI-assisted automation.
 
-My approach to reliability engineering:
+With a background in software engineering, production systems, and Site Reliability Engineering, I bring a strong foundation in building, integrating, and operating reliable applications at scale.
 
-- Treating infrastructure as software through automation and version control
-- Building observable systems using metrics, logs, and traces
-- Improving reliability through proactive monitoring and continuous improvement
-- Designing secure, scalable, and cloud-native solutions
+I enjoy working at the intersection of **Generative AI, backend engineering, cloud infrastructure, and intelligent automation**.
 
 ---
 
-## 🎯 **CORE STRENGTHS**
+## 🎯 CORE STRENGTHS
 
-- Production Incident Response & Troubleshooting
-- Cloud Infrastructure Automation
-- Kubernetes Operations
-- Infrastructure as Code (Terraform)
-- Observability & Monitoring
-- Linux Systems Engineering
-- Root Cause Analysis (RCA)
-- Automation & Operational Excellence
-
----
-
-## 🧭 **SRE PRINCIPLES**
-
-I focus on building and operating systems with an emphasis on:
-
-- **Reliability** — Designing highly available and fault-tolerant systems
-- **Observability** — Understanding system behavior through metrics, logs, and traces
-- **Automation** — Eliminating repetitive operational work through engineering solutions
-- **Scalability** — Building platforms that support growth efficiently
-- **Resilience** — Preparing systems for failures through testing and continuous improvement
-- **Continuous Improvement** — Learning from incidents through RCA and post-incident analysis
+- Generative AI & Large Language Model (LLM) Applications
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Enterprise Knowledge Retrieval & Question Answering
+- Python Backend Development
+- LangChain & OpenAI API Integration
+- REST API Development
+- AI-Assisted Automation
+- Cloud-Native Application Engineering
+- Production Reliability & Observability
 
 ---
 
-## 🏢 **ENGINEERING EXPERIENCE**
+## 🤖 GENERATIVE AI & APPLIED AI
 
-My work focuses on improving production reliability through:
+My current engineering focus includes:
 
-- Supporting and troubleshooting production systems across Linux and cloud environments
-- Automating operational workflows using Python and Bash
-- Building monitoring and observability solutions using logs, metrics, and dashboards
-- Performing incident analysis and root cause investigations
-- Collaborating with engineering teams to improve system stability and reduce recurring issues
-- Supporting scalable deployments and reliable infrastructure operations
-
----
-
-## 🛠️ **TECHNICAL EXPERTISE**
-
-### ☁️ **Cloud & Infrastructure**
-
-- **Cloud Platforms:** AWS (EC2, VPC, S3, IAM, RDS, PrivateLink)
-- **Infrastructure as Code:** Terraform, Infrastructure automation, Cloud networking, Secure access management
-- **Systems:** Linux administration, Shell scripting, System troubleshooting, Infrastructure lifecycle management
+- Building LLM-powered applications using Python and OpenAI APIs
+- Developing RAG workflows for enterprise knowledge retrieval
+- Integrating LLMs into backend applications using FastAPI and REST APIs
+- Designing prompts to improve response relevance and contextual accuracy
+- Connecting language models with external application workflows
+- Exploring retrieval optimization, evaluation, and AI application reliability
+- Applying AI to operational automation and intelligent troubleshooting
 
 ---
 
-### ☸️ **Platform Engineering**
+## 🛠️ TECHNICAL EXPERTISE
 
-- **Containers & Orchestration:** Kubernetes, Docker, Helm
-- **Platform Capabilities:** Kubernetes deployments, Container orchestration, Service configuration, Health checks, Self-healing workloads, Production troubleshooting, Deployment strategies
+### 🧠 Generative AI & LLM Engineering
 
----
+- **LLM Integration:** OpenAI APIs, Large Language Models
+- **Frameworks:** LangChain
+- **AI Techniques:** Retrieval-Augmented Generation (RAG), Prompt Engineering, Contextual Question Answering
+- **AI Applications:** Enterprise Knowledge Retrieval, AI-Assisted Log Analysis, Intelligent Automation
 
-### 📊 **Reliability & Observability**
+### 🐍 Programming & Backend Engineering
 
-- **Monitoring & Logging:** Prometheus, Grafana, Splunk, Dynatrace, OpenTelemetry
-- **Reliability Practices:** Monitoring and alerting, Log analysis, Incident response, Root Cause Analysis, SLIs, SLOs, Error Budgets
+- **Languages:** Python, SQL, Bash/Shell Scripting
+- **Frameworks:** FastAPI
+- **API Development:** REST APIs, Backend Integrations
+- **Libraries:** NumPy, Pandas, Scikit-learn
+- **ML Frameworks:** TensorFlow/Keras, PyTorch
 
----
+### ☁️ Cloud & Infrastructure
 
-### ⚙️ **Automation & Development**
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, RDS, PrivateLink)
+- **Containers:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD
+- **Experiment Tracking:** MLflow
 
-- **Languages:** Python, Bash/Shell Scripting, SQL, Go (Learning)
-- **Tools:** Git, GitHub Actions, Linux utilities (grep, awk, sed, cron)
+### 📊 Data & Engineering
 
----
-
-### 🗄️ **Data & Distributed Systems**
-
-- ETL pipelines
-- Data integration workflows
+- Data processing and integration
+- Enterprise application integrations
 - Database operations
-- Distributed system fundamentals
-- Reliable storage patterns
+- Distributed systems fundamentals
+- Automated testing and validation
+- Application monitoring and troubleshooting
+
+### 🔍 Reliability & Observability
+
+- Prometheus, Grafana, Splunk, Datadog, AppDynamics
+- OpenTelemetry
+- Production incident management
+- Root Cause Analysis
+- Monitoring, alerting, and performance analysis
 
 ---
 
-# 🚀 **FEATURED SRE PROJECTS**
+# 🚀 FEATURED AI & ENGINEERING PROJECTS
 
-## ☸️ **Kubernetes Monitoring & Reliability Platform**
+## 🧠 Enterprise Knowledge Retrieval & AI Question Answering
 
-**Tech Stack:** Kubernetes | Docker | Helm | Prometheus | Grafana | GitHub Actions
+**Tech Stack:** Python | OpenAI APIs | LangChain | RAG | FastAPI | AWS | Docker | MLflow
 
-A cloud-native reliability platform focused on Kubernetes operations, monitoring, and production readiness.
+Developing an AI-powered knowledge retrieval and question-answering solution that helps users retrieve relevant information from enterprise documentation and generate context-aware responses.
 
 **Key Implementations**
 
-- Containerized applications using Docker workflows
-- Deployed workloads using Kubernetes manifests and Helm charts
-- Implemented readiness and liveness probes for workload reliability
-- Configured resource requests and limits for workload stability
-- Integrated Prometheus metrics collection and Grafana dashboards
-- Automated deployments through CI/CD workflows
+- Developed Retrieval-Augmented Generation workflows for document-based question answering.
+- Integrated OpenAI APIs to generate responses grounded in retrieved context.
+- Used LangChain to structure LLM application workflows.
+- Built backend services and REST API integrations using Python and FastAPI.
+- Applied prompt engineering to improve answer relevance and contextual grounding.
+- Focused on reducing unsupported responses by grounding generated answers in retrieved information.
+- Incorporated cloud and containerization technologies to support application deployment and maintainability.
 
----
+## ⚙️ AI-Assisted Production Log Analysis
 
-## ☁️ **Automated Multi-Tier Cloud Provisioner**
+**Tech Stack:** Python | Generative AI | LLM APIs | Linux | Observability
 
-**Tech Stack:** Terraform | AWS | Git | Shell Scripting
-
-Infrastructure as Code project focused on secure and repeatable AWS environment provisioning.
-
-**Key Implementations**
-
-- Built reusable Terraform modules for infrastructure automation
-- Automated AWS resource provisioning
-- Designed secure cloud networking using AWS best practices
-- Implemented IAM-based access controls
-- Configured Terraform remote state management using S3 and DynamoDB
-- Maintained version-controlled infrastructure workflows
-
----
-
-## 📊 **Log Parsing & Production Telemetry Engine**
-
-**Tech Stack:** Python | Bash | Linux | Cron
-
-Automation solution designed to improve system visibility and accelerate troubleshooting.
+Exploring AI-assisted operational workflows to accelerate production troubleshooting and improve incident analysis.
 
 **Key Implementations**
 
-- Automated application log collection and parsing workflows
-- Transformed unstructured logs into structured JSON data
-- Created scheduled execution workflows using Linux utilities
-- Added system health checks and error handling
-- Improved diagnostic workflows for faster issue identification
+- Applied AI-assisted techniques to analyze application logs and troubleshooting information.
+- Used LLM-generated summaries and drafts to support faster incident investigation.
+- Integrated automation into operational analysis workflows.
+- Improved initial analysis and draft turnaround by approximately 25–30%.
 
 ---
 
-## 🚨 **PRODUCTION OPERATIONS**
+# 🏗️ SOFTWARE & PLATFORM ENGINEERING EXPERIENCE
 
-Experienced in:
+My software engineering and production reliability background provides a strong foundation for building dependable AI applications.
 
-- Incident triage and troubleshooting
-- Root Cause Analysis (RCA)
-- Log-based debugging
-- Production monitoring and alert response
-- Service health analysis
-- Release validation
-- Operational workflow automation
-- Reducing Mean Time To Detection (MTTD) and Mean Time To Recovery (MTTR)
+Areas of experience include:
 
----
-
-## 📈 **RELIABILITY METRICS**
-
-Interested in improving:
-
-- System availability and uptime
-- Mean Time To Detection (MTTD)
-- Mean Time To Recovery (MTTR)
-- Deployment reliability
-- Incident reduction
-- Service performance
+- Developing and maintaining Python-based automation.
+- Supporting enterprise applications and production environments.
+- Building backend integrations and API-driven workflows.
+- Working with AWS infrastructure and cloud-native technologies.
+- Automating operational processes using Python and Bash.
+- Working with Docker, Kubernetes, Terraform, and CI/CD pipelines.
+- Monitoring application performance and troubleshooting complex issues.
+- Improving system reliability through observability and root cause analysis.
 
 ---
 
-## 🏗️ **ENGINEERING APPROACH**
+## 🧭 ENGINEERING PRINCIPLES
 
-I believe reliable systems are built through:
+I believe successful AI applications require more than a capable language model.
 
-- Automation-first infrastructure
-- Immutable and repeatable deployments
-- Observability-driven troubleshooting
-- Secure-by-design architecture
-- Clear ownership and operational documentation
+My engineering approach emphasizes:
 
----
-
-## 🔭 **RELIABILITY ENGINEERING FOCUS**
-
-Building systems that are:
-
-**Highly Available • Observable • Automated • Secure • Scalable**
-
-**Areas of interest:**
-Cloud Platform Engineering, Kubernetes Reliability, Infrastructure Automation, Distributed Systems, Observability Engineering, and Production Performance Optimization.
+- **Grounded AI:** Generating responses supported by relevant context and retrieved information.
+- **Reliability:** Building applications that behave consistently and handle failures gracefully.
+- **Scalability:** Designing backend services that can support growing workloads.
+- **Automation:** Reducing repetitive work through intelligent workflows.
+- **Observability:** Monitoring application behavior and identifying issues.
+- **Engineering Quality:** Maintaining clean code, testing, documentation, and reproducible deployments.
 
 ---
 
-## 📚 **CURRENT LEARNING PATH**
+## 🔭 CURRENT LEARNING & ENGINEERING FOCUS
 
-Currently deepening my expertise in:
+Continuously deepening my expertise in:
 
-- Kubernetes internals and production troubleshooting
-- Cloud-native architecture patterns
-- Go programming for infrastructure tooling
-- Distributed systems design
-- Advanced AWS networking
-- Platform engineering practices
+- Advanced RAG architectures and retrieval optimization
+- LLM evaluation and response quality
+- Agentic AI and tool calling
+- Multi-step LLM orchestration
+- LangChain application development
+- Scalable AI application architectures
+- AWS-based AI application deployment
+- Production monitoring and reliability for AI systems
 
 ---
 
-## 🤝 **CONNECT**
+## 🤝 CONNECT
 
-💼 **LinkedIn:** https://linkedin.com/in/jyothilekkala  
+💼 **LinkedIn:** https://linkedin.com/in/lekkalajyothi
+
 📍 **Location:** Austin, TX
 
 ---
 
-⭐ *Engineering reliable platforms through automation, observability, and cloud-native principles.*
+⭐ *Building practical AI applications by combining Generative AI, software engineering, cloud technologies, and production reliability.*
